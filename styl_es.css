@@ -1,0 +1,39 @@
+.main_title
+{
+    Border: dashed #042e0e;
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+}
+.title
+{
+    border: thick double #042e0e;
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+}
+iframe
+{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+table
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+    /* display:block; */
+    text-decoration: none;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+td
+{
+    border: 1px solid black;
+    padding: 5px;
+}
+body
+{
+    background-color: darkgray;
+}
